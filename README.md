@@ -40,8 +40,4 @@ A modern and responsive multi-section landing page built باستخدام HTML �
 
 ## 🔗 Live Demo
 
-(Add your live link here)
-
-## 📂 GitHub Repo
-
-(Add your repo link here)
+(https://sa3dmustafa.github.io/Kaspar-Templete/)
